@@ -1,0 +1,9 @@
+{
+  "name": "qq-memory-lib",
+  "version": "0.1.0",
+  "description": "聊天机器人记忆库：向量记忆、对话压缩、好感分、三档画像，私聊/群聊两种隔离模式",
+  "type": "module",
+  "main": "src/index.js",
+  "scripts": { "test": "node test/basic.test.mjs" },
+  "license": "MIT"
+}
